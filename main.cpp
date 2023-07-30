@@ -3,7 +3,7 @@
 using namespace std;
 
 int TwoNumAdd(int a, int b){
-  cout << "add two num!" << endl;
+  cout << "add two num" << endl;
   return (a + b);
 }
 
